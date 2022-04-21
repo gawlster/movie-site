@@ -1,0 +1,5 @@
+TO BE KEPT PRIVATE
+
+Following tutorial on Youtube by JavaScript Mastery at https://www.youtube.com/watch?v=b9eMGE7QtTk
+
+OMDb API Key: e54c1a1e
